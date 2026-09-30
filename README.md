@@ -105,12 +105,11 @@ The goal is to give the student one interface while keeping the integrations sep
 
 <table>
 <tr>
-<td width="50%"><img src="./screenshots/web/home-light.png" alt="Rattibha website home page in light mode"></td>
-<td width="50%"><img src="./screenshots/web/home-dark.png" alt="Rattibha website home page in dark mode"></td>
+<td width="50%"><img src="./screenshots/web/home-light.webp" alt="Rattibha home page"></td>
+<td width="50%"><img src="./screenshots/web/builder-english-light.webp" alt="Schedule builder in English"></td>
 </tr>
 <tr>
-<td width="50%"><img src="./screenshots/web/builder-english-light.png" alt="Schedule builder in English"></td>
-<td width="50%"><img src="./screenshots/web/builder-arabic-dark.png" alt="Schedule builder in Arabic dark mode"></td>
+<td colspan="2"><img src="./screenshots/web/builder-arabic-dark.webp" alt="Schedule builder in Arabic dark mode"></td>
 </tr>
 </table>
 
@@ -118,14 +117,9 @@ The goal is to give the student one interface while keeping the integrations sep
 
 <table>
 <tr>
-<td width="33%"><img src="./screenshots/mobile/courses.jpeg" alt="Courses screen"></td>
-<td width="33%"><img src="./screenshots/mobile/schedule-weekly.jpeg" alt="Weekly schedule"></td>
-<td width="33%"><img src="./screenshots/mobile/course-elearning.jpeg" alt="Course and eLearning content"></td>
-</tr>
-<tr>
-<td width="33%"><img src="./screenshots/mobile/next-semester.jpeg" alt="Next semester courses"></td>
-<td width="33%"><img src="./screenshots/mobile/admin-overview.jpeg" alt="Admin overview"></td>
-<td width="33%"><img src="./screenshots/mobile/splash.jpeg" alt="Rattibha mobile splash screen"></td>
+<td width="33%"><img src="./screenshots/mobile/courses.webp" alt="Courses screen"></td>
+<td width="33%"><img src="./screenshots/mobile/next-semester.webp" alt="Next semester planning"></td>
+<td width="33%"><img src="./screenshots/mobile/course-elearning.webp" alt="Course and eLearning content"></td>
 </tr>
 </table>
 
